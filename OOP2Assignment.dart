@@ -38,9 +38,9 @@ class Teacher {
 class School {
   void createObjects() {
     // Create student object
-    Student student = Student('John Doe', 15, '10th Grade');
+    Student student = Student('Valentine Chebet', 27, 'MBA Student');
     // Create teacher object
-    Teacher teacher = Teacher('Ms. Smith', 35, 'Mathematics');
+    Teacher teacher = Teacher('Ms. Nderi', 43, 'Infomatics');
 
     // Call methods to print information
     student.printInfo();
