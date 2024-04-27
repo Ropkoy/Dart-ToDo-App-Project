@@ -4,7 +4,7 @@
 =======
 # todo_list_app
 
-A new Flutter project.
+My Flutter project.
 
 ## Getting Started
 -Created App Folders (Model, Screens & Widgets)
