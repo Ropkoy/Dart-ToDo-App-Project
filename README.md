@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Dart-Proojects
 =======
 # todo_list_app
@@ -18,3 +19,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 >>>>>>> c92fba5 (Pushing the ToDo App)
+=======
+# Dart-ToDo-App-Project
+>>>>>>> 252f4346e03b7c08b096e420e86e5e50398370f3
